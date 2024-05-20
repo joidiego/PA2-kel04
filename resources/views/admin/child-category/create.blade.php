@@ -12,7 +12,7 @@
               <div class="col-12">
                 <div class="card">
                   <div class="card-header">
-                    <h4>Create Sub Category</h4>
+                    <h4>Create Child Category</h4>
                   </div>
                   <div class="card-body">
                     <form action="{{ route('admin.child-category.store') }}" method="POST">

@@ -22,6 +22,7 @@
                         @method('PUT')
                         <div class="form-group">
                             <label>Preview</label>
+                            <br>
                             <img width="200" src="{{ asset($slider->banner) }}" alt="">
                         </div>
                         <div class="form-group">
